@@ -12,7 +12,7 @@ import AppCard from '../app-card'
   margin: 50px auto;
   display: flex;
   width: 350px;
-  height: 410px;
+  height: 3wh;
   flex-direction: column;
   text-align: center;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
