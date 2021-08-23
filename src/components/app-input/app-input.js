@@ -10,7 +10,7 @@ const Button = styled.button`
 const Input = styled.input`
     text-align: center;
     border-radius: 6px;
-    background-color: #c5e0fa;
+    background-color: rgba(228, 228, 228, 0.16);
     `
 
     export default class AppInput extends React.Component{

@@ -16,7 +16,8 @@ import AppCard from '../app-card'
   flex-direction: column;
   text-align: center;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
-  background-color: #87ccf5;
+  background: rgb(60,235,237);
+  background: linear-gradient(214deg, rgba(60,235,237,1) 0%, rgba(253,45,238,1) 100%);
 ` 
 export default class App extends Component{
   
